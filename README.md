@@ -1,0 +1,1 @@
+This is a project to learn some basics of html and css from the community of the odin project
