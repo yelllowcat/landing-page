@@ -1,0 +1,26 @@
+
+header{
+    display: flex;
+    
+    
+
+}
+ul{
+    margin-left: auto;
+    display: flex;
+    gap: 16px;
+}
+li{
+    list-style-type: none;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    
+}
+.contatiner{
+    display: flex;
+    margin-left: 50px;
+    gap: 200px;
+    align-items: center;
+}
