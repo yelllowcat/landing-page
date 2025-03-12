@@ -1,11 +1,8 @@
 
 header{
     display: flex;
-    
-    
-
 }
-ul{
+.top{
     margin-left: auto;
     display: flex;
     gap: 16px;
@@ -14,13 +11,36 @@ li{
     list-style-type: none;
 }
 .logo{
-    width: 150px;
-    height: 150px;
+   height: 400px;
+   width: 400px;
     
 }
 .contatiner{
     display: flex;
     margin-left: 50px;
-    gap: 200px;
+    margin-top: 100px;
+    gap: 400px;
     align-items: center;
+}
+section{
+    display: flex;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+.mid{
+    margin-top: 150px;
+}
+.logos{
+    display: flex;
+}
+.mid-bottom{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+}
+.about{
+    margin: auto;
 }
