@@ -17,8 +17,8 @@ li{
     list-style-type: none;
 }
 .logo{
-   height: 400px;
-   width: 400px;
+   height: 200px;
+   width: 200px;
     
 }
 .contatiner{
@@ -76,7 +76,7 @@ h2{
     height: 100px;
     width: 600px;
     background-color: #3883f6;
-    margin: auto;
+    margin: 0;
     border-radius: 15px;
     gap: 150px;
     
@@ -89,6 +89,7 @@ button{
     width: 100px;
     height: 30px;
     border-radius: 5px;
+    margin-right: 50px;
 
 }
 .white{
@@ -121,4 +122,19 @@ padding-left: 100px;
 }
 footer{
     display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    height: 40px;
+    color: #f9faf8;
+}
+.contact-text{
+    margin: auto;
+    
+}
+.bottom-text-button{
+    margin: 0;
+}
+.button-tile{
+margin-bottom: 0px;
 }
